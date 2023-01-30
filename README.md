@@ -1,6 +1,6 @@
 We collect a curated list of papers related to **Rule Injection** for Knowlegde Graph Embedding (KGE) models.
 
-Papers are organized by the following categories:
+Papers are organized into the following categories:
 
 - Capability of rule modeling
 - Technique of Rule injection
