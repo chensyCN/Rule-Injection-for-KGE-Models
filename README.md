@@ -22,7 +22,7 @@ Papers are organized into the following categories:
 
 ## Techniques of Rule injection
 
-| Year | Source   | Model                                          | Other resources (Video/Webpage/Code)                                                                                                                                               |
+| Year | Source   | Model                                          | Other resources (Video/Blog/Code)                                                                                                                                                  |
 | ---- | -------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2021 | TPAMI    | [LogicENN](https://arxiv.org/abs/1908.07141)   |                                                                                                                                                                                    |
 | 2020 | ICLR     | [ExpressGNN](https://arxiv.org/abs/2001.11850) | [code](https://github.com/expressGNN/ExpressGNN)                                                                                                                                   |
@@ -32,7 +32,7 @@ Papers are organized into the following categories:
 
 ## Rule Mining
 
-| Year | Source   | Model                                                                                                    | Other resources (Video/Webpage/Code)            |
+| Year | Source   | Model                                                                                                    | Other resources (Video/Blog/Code)               |
 | ---- | -------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | 2020 | ESWC     | [AMIE 3](https://link.springer.com/chapter/10.1007/978-3-030-49461-2_3)                                  | [code](https://github.com/dig-team/amie)        |
 | 2019 | NeuraIPS | [DRUM](https://arxiv.org/abs/1911.00055)                                                                 | [code](https://github.com/alisadeghian/DRUM)    |
