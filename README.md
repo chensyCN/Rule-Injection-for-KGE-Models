@@ -54,13 +54,11 @@ We also extrat some valuable data from these paper for easy reference, including
 
 ---
 
----
-
 
 
 ## KGE models' Capacity of rule pattern learning
 
-![截屏2023-01-31 下午1.37.46](./pics/截屏2023-01-31 下午1.37.46.png)
+![截屏2023-01-31 下午1.37.46](https://raw.githubusercontent.com/chensyCN/PicBed/main/202301311343003.png)
 
 ## Comparison of KGE inference performance
 
