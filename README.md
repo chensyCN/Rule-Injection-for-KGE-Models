@@ -2,14 +2,14 @@ We collect a curated list of papers related to **Rule Injection** for Knowlegde 
 
 Papers are organized into the following categories:
 
-- [Capability of modeling rule patterns](#Capability of modeling rule patterns)
-- [Techniques of Rule injection](#Techniques of Rule injection)
-- [Rule Mining](#Rule Mining)
+- [Capability of modeling rule patterns](#Capability)
+- [Techniques of Rule injection](#Techniques)
+- [Rule Mining](#Rule)
 
 We also extrat some valuable data from these paper for easy reference, including
 
--   [KGE models' Capacity of rule pattern learning](#KGE models' Capacity of rule pattern learning)
--   [Comparison of KGE inference performance](#Comparison of KGE inference performance)
+-   [KGE models' Capacity of rule pattern learning](#KGE)
+-   [Comparison of KGE inference performance](#Comparison)
 
 
 
