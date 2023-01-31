@@ -2,18 +2,18 @@ We collect a curated list of papers related to **Rule Injection** for Knowlegde 
 
 Papers are organized into the following categories:
 
-- [Capability of modeling rule patterns](##Capability of modeling rule patterns)
-- [Techniques of Rule injection](##Techniques of Rule injection)
-- [Rule Mining](##Rule Mining)
+- [Capability of modeling rule patterns](#Capability of modeling rule patterns)
+- [Techniques of Rule injection](#Techniques of Rule injection)
+- [Rule Mining](#Rule Mining)
 
 We also extrat some valuable data from these paper for easy reference, including
 
--   [KGE models' Capacity of rule pattern learning](##KGE models' Capacity of rule pattern learning)
--   [Comparison of KGE inference performance](##Comparison of KGE inference performance)
+-   [KGE models' Capacity of rule pattern learning](#KGE models' Capacity of rule pattern learning)
+-   [Comparison of KGE inference performance](#Comparison of KGE inference performance)
 
 
 
-## Capability of modeling rule patterns
+# Capability of modeling rule patterns
 
 | Year | Source   | Model                                                        | Other resources                                              |
 | ---- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -29,7 +29,7 @@ We also extrat some valuable data from these paper for easy reference, including
 
 
 
-## Techniques of Rule injection
+# Techniques of Rule injection
 
 | Year | Source   | Model                                          | Other resources                                              |
 | ---- | -------- | ---------------------------------------------- | ------------------------------------------------------------ |
@@ -43,7 +43,7 @@ We also extrat some valuable data from these paper for easy reference, including
 
 
 
-## Rule Mining
+# Rule Mining
 
 | Year | Source   | Model                                                        | Other resources                                              |
 | ---- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -56,17 +56,17 @@ We also extrat some valuable data from these paper for easy reference, including
 
 
 
-## KGE models' Capacity of rule pattern learning
+# KGE models' Capacity of rule pattern learning
 
 ![截屏2023-01-31 下午1.37.46](https://raw.githubusercontent.com/chensyCN/PicBed/main/202301311343003.png)
 
-## Comparison of KGE inference performance
+# Comparison of KGE inference performance
 
 ### 1. Link Prediction | @UMLS @Kinship
 
 >   Source: [RulE (table 1)](https://arxiv.org/abs/2210.14905)
 
-![截屏2023-01-31 下午1.23.26](./pics/截屏2023-01-31 下午1.23.26.png)
+![截屏2023-01-31 下午1.23.26](https://raw.githubusercontent.com/chensyCN/PicBed/main/202301311344849.png)
 
 
 
@@ -74,11 +74,11 @@ We also extrat some valuable data from these paper for easy reference, including
 
 >   Source: [RulE (table 2)](https://arxiv.org/abs/2210.14905), [pLogicNet (table2)](https://click.endnote.com/viewer?doi=10.48550%2Farxiv.1906.08495&token=WzEyMTEwMDYsIjEwLjQ4NTUwL2FyeGl2LjE5MDYuMDg0OTUiXQ.HKarNnTAz0YklU-MJ8g_QOHrDn4)
 
-![截屏2023-01-31 下午1.26.42](./pics/截屏2023-01-31 下午1.26.42.png)
+![截屏2023-01-31 下午1.26.42](https://raw.githubusercontent.com/chensyCN/PicBed/main/202301311344129.png)
 
 
 
-![截屏2023-01-31 下午1.29.10](./pics/截屏2023-01-31 下午1.29.10.png)
+![截屏2023-01-31 下午1.29.10](https://raw.githubusercontent.com/chensyCN/PicBed/main/202301311344649.png)
 
 
 
@@ -86,11 +86,11 @@ We also extrat some valuable data from these paper for easy reference, including
 
 >   Source: [RulE (table 3)](https://arxiv.org/abs/2210.14905), [pLogicNet (table1)](https://click.endnote.com/viewer?doi=10.48550%2Farxiv.1906.08495&token=WzEyMTEwMDYsIjEwLjQ4NTUwL2FyeGl2LjE5MDYuMDg0OTUiXQ.HKarNnTAz0YklU-MJ8g_QOHrDn4)
 
-![截屏2023-01-31 下午1.27.05](./pics/截屏2023-01-31 下午1.27.05.png)
+![截屏2023-01-31 下午1.27.05](https://raw.githubusercontent.com/chensyCN/PicBed/main/202301311344809.png)
 
 
 
-![截屏2023-01-31 下午1.29.52](./pics/截屏2023-01-31 下午1.29.52.png)
+![截屏2023-01-31 下午1.29.52](https://raw.githubusercontent.com/chensyCN/PicBed/main/202301311344124.png)
 
 
 
