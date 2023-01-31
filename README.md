@@ -2,18 +2,18 @@ We collect a curated list of papers related to **Rule Injection** for Knowlegde 
 
 Papers are organized into the following categories:
 
-- [Capability of modeling rule patterns](#Capability)
-- [Techniques of Rule injection](#Techniques)
-- [Rule Mining](#Rule)
+- [Capability of Modeling Rule Patterns](#Capability-of-Modeling-Rule-Patterns)
+- [Techniques of Rule Injection](#Techniques-of-Rule-Injection)
+- [Rule Mining](#Rule-Mining)
 
 We also extrat some valuable data from these paper for easy reference, including
 
--   [KGE models' Capacity of rule pattern learning](#KGE)
--   [Comparison of KGE inference performance](#Comparison)
+-   [KGE Models' Capacity of Rule Pattern Learning](#KGE-Models'-Capacity-of-Rule-Pattern-Learning)
+-   [Comparison of KGE Inference Performance](#Comparison-of-KGE-Inference-Performance)
 
 
 
-# Capability of modeling rule patterns
+# Capability of Modeling Rule Patterns
 
 | Year | Source   | Model                                                        | Other resources                                              |
 | ---- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -29,7 +29,7 @@ We also extrat some valuable data from these paper for easy reference, including
 
 
 
-# Techniques of Rule injection
+# Techniques of Rule Injection
 
 | Year | Source   | Model                                          | Other resources                                              |
 | ---- | -------- | ---------------------------------------------- | ------------------------------------------------------------ |
@@ -56,11 +56,11 @@ We also extrat some valuable data from these paper for easy reference, including
 
 
 
-# KGE models' Capacity of rule pattern learning
+# KGE models' Capacity of Rule Pattern Learning
 
 ![截屏2023-01-31 下午1.37.46](https://raw.githubusercontent.com/chensyCN/PicBed/main/202301311343003.png)
 
-# Comparison of KGE inference performance
+# Comparison of KGE Inference Performance
 
 ### 1. Link Prediction | @UMLS @Kinship
 
