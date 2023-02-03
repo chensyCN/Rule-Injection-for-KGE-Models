@@ -31,15 +31,16 @@ We also extrat some valuable data from these paper for easy reference, including
 
 # Techniques of Rule Injection
 
-| Year | Source   | Model                                          | Other resources                                              |
-| ---- | -------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| 2022 | arxiv    | [RulE](https://arxiv.org/abs/2210.14905)       | [code](https://github.com/xiaojuantang/rule)                 |
-| 2021 | ICLR     | [RNNLogic](https://arxiv.org/abs/2010.04029)   | [code](https://github.com/DeepGraphLearning/RNNLogic) \| [video](https://www.bilibili.com/video/BV1xe4y1e7bm/?spm_id_from=333.999.0.0&vd_source=42e3f601818dbf67242ca75d8b90b89b) |
-| 2021 | TPAMI    | [LogicENN](https://arxiv.org/abs/1908.07141)   |                                                              |
-| 2020 | ICLR     | [ExpressGNN](https://arxiv.org/abs/2001.11850) | [code](https://github.com/expressGNN/ExpressGNN)             |
-| 2019 | NeuraIPS | [pLogicNet](https://arxiv.org/abs/1906.08495)  | [code](https://github.com/DeepGraphLearning/pLogicNet) \| [video](https://www.bilibili.com/video/BV1xe4y1e7bm/?spm_id_from=333.999.0.0&vd_source=42e3f601818dbf67242ca75d8b90b89b) |
-| 2018 | AAAI     | [RUGE](https://arxiv.org/abs/1711.11231)       | [code](https://github.com/iieir-km/RUGE)                     |
-| 2016 | EMNLP    | [KALE](https://aclanthology.org/D16-1019.pdf)  | [code](https://github.com/iieir-km/KALE)                     |
+| Year | Source   | Model                                               | Other resources                                              |
+| ---- | -------- | --------------------------------------------------- | ------------------------------------------------------------ |
+| 2022 | arxiv    | [RulE](https://arxiv.org/abs/2210.14905)            | [code](https://github.com/xiaojuantang/rule)                 |
+| 2021 | ICLR     | [RNNLogic](https://arxiv.org/abs/2010.04029)        | [code](https://github.com/DeepGraphLearning/RNNLogic) \| [video](https://www.bilibili.com/video/BV1xe4y1e7bm/?spm_id_from=333.999.0.0&vd_source=42e3f601818dbf67242ca75d8b90b89b) |
+| 2021 | TPAMI    | [LogicENN](https://arxiv.org/abs/1908.07141)        |                                                              |
+| 2020 | ICLR     | [ExpressGNN](https://arxiv.org/abs/2001.11850)      | [code](https://github.com/expressGNN/ExpressGNN)             |
+| 2019 | ICML     | [GMNN](http://proceedings.mlr.press/v97/qu19a.html) | [code](https://github.com/DeepGraphLearning/GMNN)            |
+| 2019 | NeuraIPS | [pLogicNet](https://arxiv.org/abs/1906.08495)       | [code](https://github.com/DeepGraphLearning/pLogicNet) \| [video](https://www.bilibili.com/video/BV1xe4y1e7bm/?spm_id_from=333.999.0.0&vd_source=42e3f601818dbf67242ca75d8b90b89b) |
+| 2018 | AAAI     | [RUGE](https://arxiv.org/abs/1711.11231)            | [code](https://github.com/iieir-km/RUGE)                     |
+| 2016 | EMNLP    | [KALE](https://aclanthology.org/D16-1019.pdf)       | [code](https://github.com/iieir-km/KALE)                     |
 
 
 
